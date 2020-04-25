@@ -1,0 +1,11 @@
+framework module iosUW6th {
+  umbrella header "iosUW6th.h"
+
+  export *
+  module * { export * }
+}
+
+module iosUW6th.Swift {
+    header "iosUW6th-Swift.h"
+    requires objc
+}

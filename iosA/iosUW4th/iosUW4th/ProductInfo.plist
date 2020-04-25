@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>products</key>
+	<array>
+		<dict>
+			<key>imageName</key>
+			<string>Pulse</string>
+			<key>description</key>
+			<string>The Ballad of Robert Finlay</string>
+			<key>price</key>
+			<string>7.99</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>Ukulele</string>
+			<key>description</key>
+			<string>21 Inch with Gig Bag</string>
+			<key>price</key>
+			<string>25.49</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>TV</string>
+			<key>description</key>
+			<string>4K Ultra HD Smart LED TV</string>
+			<key>price</key>
+			<string>447.99</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>Echo</string>
+			<key>description</key>
+			<string>Echo Dot (2nd Generation)</string>
+			<key>price</key>
+			<string>39.99</string>
+		</dict>
+		<dict>
+			<key>imageName</key>
+			<string>JBL</string>
+			<key>description</key>
+			<string>JBL Everest Elite 700</string>
+			<key>price</key>
+			<string>129.99</string>
+		</dict>
+	</array>
+</dict>
+</plist>
